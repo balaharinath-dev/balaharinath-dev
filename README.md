@@ -2,7 +2,7 @@
 Hello! I'm Balaharinath C, a final year BE CSE student with a passion for full-stack development. Currently honing my skills, I thrive on staying updated with the latest technologies. From conceptualization to execution, I've worked on various projects and always eager to embark on new ones. As I prepare to transition from academia to industry, I'm actively seeking internship opportunities to further enrich my skill set. Let's connect and explore exciting possibilities together!
 
 
-# Connect with me through
+# Social Media
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/balaharinath.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/balaharinath-dev) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/balaharinath-dev) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/balaharinath.dev) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/balaharinathdev) 
 
 # Tech Stack
