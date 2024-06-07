@@ -4,37 +4,10 @@ Hello! I'm Balaharinath C, a final year BE CSE student with a passion for full-s
 # My Projects
 Here are the list of my projects I've been working on
 
-### [Professional Matrimonial Website](http://www.github.com/balaharinath-dev/Professional-Matrimonial-Website)
-- Description: A matrimonial themed social platform for professionals 
-- Tech Stack: WINDOWS, APACHE, PHP, MYSQL
-
-### [To Do List](http://www.github.com/balaharinath-dev/Professional-Matrimonial-Website)
-- Description: A web application to create, edit and delete notes, To-do lists and remainders
-- Tech Stack: WINDOWS, APACHE, PHP, MONGODB
-
-### [Complete Survey System](http://www.github.com/balaharinath-dev/Complete-Survey-System)
-- Description: A web application to create, delete, submit and provide survey forms 
-- Tech Stack: WINDOWS, APACHE, PHP, MONGODB
-
-### [Vulnerability Data Management System](http://www.github.com/balaharinath-dev/Vulnerability-Data-Management-System)
-- Description: A web application with a record of software vulnerabilites
-- Tech Stack: REACT TS, NODE TS, EXPRESS TS, MONGODB
-
-### [Explosion Risk Management System](http://www.github.com/balaharinath-dev/Explosion-Risk-Management-System)
-- Description: An IoT based web application to detect and manage industrial threats
-- Tech Stack: REACT TS, NODE TS, EXPRESS TS, MONGODB
-
-### [Shop Now](http://www.github.com/balaharinath-dev/Shop-Now)
-- Description: A E-commerce web application
-- Tech Stack: REACT TS, NODE TS, EXPRESS TS, MONGODB
-
-### [Portfolio Website](http://www.github.com/balaharinath-dev/Portfolio-Website)
-- Description: A portfolio website
-- Tech Stack: REACT TS, NODE TS, EXPRESS TS, MONGODB
-
-### [Timer and Stopwatch](http://www.github.com/balaharinath-dev/Timer-and-Stopwatch)
-- Description: A timer and stopwatch web application
-- Tech Stack: HTML, CSS, JS
+[![Professional Matrimonial Website](https://github-readme-stats.vercel.app/api/pin/?username=balaharinath-dev&repo=Professional-Matrimonial-Website&theme=dark)](http://www.github.com/balaharinath-dev/Professional-Matrimonial-Website) [![To Do List](https://github-readme-stats.vercel.app/api/pin/?username=balaharinath-dev&repo=To-Do-List&theme=dark)](http://www.github.com/balaharinath-dev/To-Do-List)
+[![Complete Survey System](https://github-readme-stats.vercel.app/api/pin/?username=balaharinath-dev&repo=Complete-Survey-System&theme=dark)](http://www.github.com/balaharinath-dev/Complete-Survey-System) [![Vulnerability Data Management System](https://github-readme-stats.vercel.app/api/pin/?username=balaharinath-dev&repo=Vulnerability-Data-Management-System&theme=dark)](http://www.github.com/balaharinath-dev/Vulnerability-Data-Management-System)
+[![Explosion Risk Management System](https://github-readme-stats.vercel.app/api/pin/?username=balaharinath-dev&repo=Explosion-Risk-Management-System&theme=dark)](http://www.github.com/balaharinath-dev/Explosion-Risk-Management-System) [![Shop Now](https://github-readme-stats.vercel.app/api/pin/?username=balaharinath-dev&repo=Shop-Now&theme=dark)](http://www.github.com/balaharinath-dev/Shop-Now)
+[![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=balaharinath-dev&repo=Portfolio-Website&theme=dark)](http://www.github.com/balaharinath-dev/Portfolio-Website) [![Timer and Stopwatch](https://github-readme-stats.vercel.app/api/pin/?username=balaharinath-dev&repo=Timer-and-Stopwatch&theme=dark)](http://www.github.com/balaharinath-dev/Timer-and-Stopwatch)
 
 # Knowledge
 These are some of the languages, frameworks, tech stacks, packages, tools and learnings I work with
