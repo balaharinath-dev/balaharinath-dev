@@ -5,36 +5,36 @@ Hello! I'm Balaharinath C, a final year BE CSE student with a passion for full-s
 Here are the list of my projects I've been working on
 
 ### [Professional Matrimonial Website](http://www.github.com/balaharinath-dev/Professional-Matrimonial-Website)
-- Description: A matrimonial themed social platform for professionals 
+- Description: A Matrimonial themed Social Platform for Professionals
 - Tech Stack: WINDOWS, APACHE, PHP, MYSQL
 
 ### [To Do List](http://www.github.com/balaharinath-dev/Professional-Matrimonial-Website)
-- Description: A web application to create, edit and delete notes, To-do lists and remainders
+- Description: A Web Application to create, edit and delete Notes, Lists and Remainders
 - Tech Stack: WINDOWS, APACHE, PHP, MONGODB
 
 ### [Complete Survey System](http://www.github.com/balaharinath-dev/Complete-Survey-System)
-- Description: A web application to create, delete, submit and provide survey forms 
+- Description: A Web Application to create, delete, submit and provide Survey Forms
 - Tech Stack: WINDOWS, APACHE, PHP, MONGODB
 
 ### [Vulnerability Data Management System](http://www.github.com/balaharinath-dev/Vulnerability-Data-Management-System)
-- Description: A web application with a record of software vulnerabilites
+- Description: A Web Application to fetch, filter, sort the record of Software Vulnerabilites
 - Tech Stack: REACT TS, NODE TS, EXPRESS TS, MONGODB
 
 ### [Explosion Risk Management System](http://www.github.com/balaharinath-dev/Explosion-Risk-Management-System)
-- Description: An IoT based web application to detect and manage industrial threats
+- Description: An IoT based Web Application to detect and manage Industrial Threats
 - Tech Stack: REACT TS, NODE TS, EXPRESS TS, MONGODB
 
 ### [Shop Now](http://www.github.com/balaharinath-dev/Shop-Now)
-- Description: A E-commerce web application
+- Description: A E-commerce Web Application
 - Tech Stack: REACT TS, NODE TS, EXPRESS TS, MONGODB
 
 ### [Portfolio Website](http://www.github.com/balaharinath-dev/Portfolio-Website)
-- Description: A portfolio website
+- Description: A Portfolio Website
 - Tech Stack: REACT TS, NODE TS, EXPRESS TS, MONGODB
 
 ### [Timer and Stopwatch](http://www.github.com/balaharinath-dev/Timer-and-Stopwatch)
-- Description: A timer and stopwatch web application
-- Tech Stack: HTML, CSS, JS change this as widget
+- Description: A Timer and Stopwatch Web Application
+- Tech Stack: HTML, CSS, JS
 
 # Knowledge
 These are some of the languages, frameworks, tech stacks, packages, tools and learnings I work with
