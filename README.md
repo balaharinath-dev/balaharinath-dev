@@ -4,11 +4,11 @@ Hello! I'm Balaharinath C, a final year BE CSE student with a passion for full-s
 # My Projects
 Here are the list of my projects I've completed and also working on right now,
 
-### [ImpactOne](http://www.github.com/balaharinath-dev/ImpactOne)
+### [ImpactOne](http://www.github.com/balaharinath-dev/ImpactOne) (Private currently)
 - Description: A CSR Project Management Tool and Analytics Platform
 - Tech Stack: REACT TS, NODE TS, EXPRESS TS, MONGO DB, MARIA DB, FLASK API, KAFKA, DL
 
-### [GenCAD](http://www.github.com/balaharinath-dev/GenCAD)
+### [GenCAD](http://www.github.com/balaharinath-dev/GenCAD) (Private currently)
 - Description: Improving 3D CAD Model accuracy with Generative-AI
 - Tech Stack: DL, Flask
 
