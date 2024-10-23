@@ -2,7 +2,23 @@
 Hello! I'm Balaharinath C, a final year BE CSE student with a passion for full-stack development. Currently honing my skills, I thrive on staying updated with the latest technologies. From conceptualization to execution, I've worked on various projects and always eager to embark on new ones. As I prepare to transition from academia to industry, I'm actively seeking internship opportunities to further enrich my skill set. Let's connect and explore exciting possibilities together!
 
 # My Projects
-Here are the list of my projects I've been working on
+Here are the list of my projects I've completed and also working on right now,
+
+### [ImpactOne](http://www.github.com/balaharinath-dev/ImpactOne)
+- Description: A CSR Project Management Tool and Analytics Platform
+- Tech Stack: REACT TS, NODE TS, EXPRESS TS, MONGO DB, MARIA DB, FLASK API, KAFKA, DL
+
+### [GenCAD](http://www.github.com/balaharinath-dev/GenCAD)
+- Description: Improving 3D CAD Model accuracy with Generative-AI
+- Tech Stack: DL, Flask
+
+### [Vulnerability Data Management System](http://www.github.com/balaharinath-dev/Vulnerability-Data-Management-System)
+- Description: A Web Application to fetch, filter, sort the record of Software Vulnerabilites
+- Tech Stack: REACT TS, NODE TS, EXPRESS TS, MONGODB
+
+### [Explosion Risk Management System](http://www.github.com/balaharinath-dev/Explosion-Risk-Management-System)
+- Description: An IoT based Web Application to detect and manage Industrial Threats
+- Tech Stack: REACT TS, NODE TS, EXPRESS TS, MONGODB
 
 ### [Professional Matrimonial Website](http://www.github.com/balaharinath-dev/Professional-Matrimonial-Website)
 - Description: A Matrimonial themed Social Platform for Professionals
@@ -15,18 +31,6 @@ Here are the list of my projects I've been working on
 ### [Complete Survey System](http://www.github.com/balaharinath-dev/Complete-Survey-System)
 - Description: A Web Application to create, delete, submit and provide Survey Forms
 - Tech Stack: WINDOWS, APACHE, PHP, MONGODB
-
-### [Vulnerability Data Management System](http://www.github.com/balaharinath-dev/Vulnerability-Data-Management-System)
-- Description: A Web Application to fetch, filter, sort the record of Software Vulnerabilites
-- Tech Stack: REACT TS, NODE TS, EXPRESS TS, MONGODB
-
-### [Explosion Risk Management System](http://www.github.com/balaharinath-dev/Explosion-Risk-Management-System)
-- Description: An IoT based Web Application to detect and manage Industrial Threats
-- Tech Stack: REACT TS, NODE TS, EXPRESS TS, MONGODB
-
-### [Shop Now](http://www.github.com/balaharinath-dev/Shop-Now)
-- Description: A E-commerce Web Application
-- Tech Stack: REACT TS, NODE TS, EXPRESS TS, MONGODB
 
 ### [Portfolio Website](http://www.github.com/balaharinath-dev/Portfolio-Website)
 - Description: A Portfolio Website
